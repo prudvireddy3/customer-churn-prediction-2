@@ -1,4 +1,4 @@
-# customer-churn-prediction-2-
+# customer-churn-prediction-2
 
  Project:
 Data Set Details: Each row corresponds to a client of a company for whom it has collected information about the type of plan they have contracted, the minutes they have talked, or the charge they pay every month.
